@@ -12,19 +12,13 @@ theme:
 
 nav:
   - Home: index.md
-  - AI Agents: AI_AGENTS.md
   - Governance:
     - Overview: gov/README.md
     - Roles: gov/roles/README.md
-    - Responsibilities: gov/responsibilities/README.md
     - Policies: gov/policies/README.md
-    - Schedules: gov/schedules/README.md
   - Operations:
     - Overview: ops/README.md
-    - Projects: ops/projects/README.md
-    - Tasks: ops/tasks/README.md
-    - Research: ops/research/README.md
-    - Synthesis: ops/synthesis/README.md
+    - ProjectsByRole: ops/projects-by-role
 
 markdown_extensions:
   - toc:
