@@ -1,6 +1,6 @@
 site_name: Team Wiki
-site_url: https://example.com/wiki
-repo_url: https://github.com/your-org/team-wiki
+site_url: https://tensiondriven.github.io/kb/
+repo_url: https://github.com/tensiondriven/kb
 theme:
   name: material
   features:
@@ -12,6 +12,7 @@ theme:
 
 nav:
   - Home: index.md
+  - AI Agents: AI_AGENTS.md
   - Governance:
     - Overview: gov/README.md
     - Roles: gov/roles/README.md
