@@ -11,7 +11,7 @@ A wonderful world where all the code runs, bug free.
 
 - Designing and implementing AI/ML models and systems
 - Implementing features from Sprint Backlog
-- Answering questions from Customer Service at
+- Answering questions from Customer Service at specified times. (AI)
 
 ## Related/Assets
 
@@ -21,3 +21,4 @@ A wonderful world where all the code runs, bug free.
 ## Changelog
 
 - Created 2025-09-02
+- Updated 2025-09-04: Added AI content rule note and fixed incomplete responsibility. (AI)
