@@ -1,6 +1,5 @@
-# Knowledge Graph Keeper
+# Role: Knowledge Graph Keeper
 
-Name: Knowledge Graph Keeper
 Short Name: Graph Keeper (AI)
 
 ## Purpose
@@ -16,11 +15,11 @@ Jonathan's entire knowledge ecosystem perfectly connected and meaningful. (AI)
 
 ## Additional Info
 
-This role is focused on maintaining and enhancing Jonathan's personal knowledge graph. The role involves both maintaining the graph structure and extracting value from it through analysis and insight generation. The role may overlap with the Knowledge Digger role but focuses more on the product management aspect of the knowledge graph system. [ref](meetings/2025-09-03-initial-setup.md:44-47) (AI)
+The transcript mentions RAG (Retrieval-Augmented Generation) as one of the techniques for extracting insights from the knowledge graph. There's also mention of "relationships" between nodes being "interesting" which suggests the role should focus on meaningful connections rather than just data storage. The role seems to have a product management aspect but focused specifically on the knowledge graph ecosystem rather than general product management. [ref](meetings/2025-09-03-initial-setup.md:44-47) (AI)
 
 ## Processing Notes
 
-Changed role name from "Product Manager (Knowledge Graph)" to "Knowledge Graph Keeper" to be more playful and avoid traditional naming. Created casual short name "Graph Keeper". Purpose was made more concise and inspiring. (AI)
+Changed role name from "Product Manager (Knowledge Graph)" to "Knowledge Graph Keeper" to be more playful and avoid traditional naming. Created casual short name "Graph Keeper". Purpose was made more concise and inspiring. **Confusion**: Not clear how this role differs from Knowledge Digger - there seems to be overlap in knowledge management. **Question**: Should this role maintain the actual graph database/technology or just the content? **Ambiguity**: Transcript mentions "making sure relationships are interesting" but doesn't define what makes a relationship "interesting". **Improvement opportunity**: Could add responsibility for graph performance optimization and data quality management. (AI)
 
 ## Changelog
 

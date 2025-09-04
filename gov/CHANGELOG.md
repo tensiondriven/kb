@@ -22,19 +22,25 @@ Based on feedback to make role names more playful and purpose statements more in
    - Purpose: "Never miss a bargain on the things that matter" (more inspiring)
    - Fixed reference format to standard markdown links
    - Added Processing Notes section
+   - Updated H1 title to "Role: Deal Hunter" format
+   - Fixed Additional Info to contain actual additional details, not summaries
 
 2. **IT Infrastructure** (`gov/roles/it-infrastructure.md`)
    - Changed from: "IT Infrastructure Manager" → "IT Infrastructure" (avoid traditional naming)
-   - Purpose: "All systems operational, everyone's got what they need" (more casual)
+   - Purpose: "All systems operational, everyone's got what they need!" (more casual)
    - Short Name: "Infra" (casual/colloquial)
    - Fixed reference format to standard markdown links
    - Added Processing Notes section
+   - Updated H1 title to "Role: IT Infrastructure" format
+   - Fixed Additional Info to contain specific system details, not summaries
 
 3. **Knowledge Digger** (`gov/roles/knowledge-archaeologist.md`)
    - Changed from: "Knowledge Archaeologist" → "Knowledge Digger" (more playful)
    - Purpose: "Every knowledge territory fully mapped and understood" (more concise)
    - Fixed reference format to standard markdown links
    - Added Processing Notes section
+   - Updated H1 title to "Role: Knowledge Digger" format
+   - Fixed Additional Info to contain specific linguistics and physics-of-work details
 
 4. **Knowledge Graph Keeper** (`gov/roles/knowledge-graph-keeper.md`)
    - Changed from: "Product Manager (Knowledge Graph)" → "Knowledge Graph Keeper" (avoid traditional naming)
@@ -42,5 +48,13 @@ Based on feedback to make role names more playful and purpose statements more in
    - Short Name: "Graph Keeper" (casual/colloquial)
    - Fixed reference format to standard markdown links
    - Added Processing Notes section
+   - Updated H1 title to "Role: Knowledge Graph Keeper" format
+   - Fixed Additional Info to contain RAG and relationship details
 
-All roles now follow the new standards: playful names, inspiring purposes, casual short names, proper markdown references, and AI content marking. (AI)
+### Updated Instructions and Additional Info Definition
+- Updated H1 title format to use "Role:" prefix for all roles
+- Redefined Additional Info section as overflow bucket for details that don't fit other fields
+- Fixed Additional Info sections to contain actual additional details, not summaries of responsibilities
+- Updated example role to match new H1 format
+
+All roles now follow the new standards: playful names, inspiring purposes, casual short names, proper markdown references, meaningful Additional Info sections, and AI content marking. (AI)

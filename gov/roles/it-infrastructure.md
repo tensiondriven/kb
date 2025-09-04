@@ -1,11 +1,10 @@
-# IT Infrastructure
+# Role: IT Infrastructure
 
-Name: IT Infrastructure
 Short Name: Infra (AI)
 
 ## Purpose
 
-All systems operational, everyone's got what they need (AI)
+All systems operational, everyone's got what they need! (AI)
 
 ## Responsibilities
 
@@ -16,11 +15,11 @@ All systems operational, everyone's got what they need (AI)
 
 ## Additional Info
 
-This role covers a broad range of infrastructure including networking, security systems, power management, and various smart home/IoT devices. The scope includes both hardware maintenance and software service monitoring. [ref](meetings/2025-09-03-initial-setup.md:37-40) (AI)
+The transcript mentions specific systems like Omada (network management), GNS (possibly GPS/GNSS systems), and various camera setups including time-lapse and barn cameras. There's also mention of electrical panel monitoring which suggests power management integration. The role spans both software services (dashboards, alerting) and physical hardware management. [ref](meetings/2025-09-03-initial-setup.md:37-40) (AI)
 
 ## Processing Notes
 
-I was able to process everything in the description. I had to make up the short name, and I was confused about the specific wifi system, but I added what i thought was right. (AI)
+I was able to process everything in the description. **Confusion**: Was unclear about specific WiFi system details mentioned in transcript. **Question**: Should "electrical panel" monitoring include power consumption analytics or just status monitoring? **Ambiguity**: Not clear if time-lapse cameras are part of security system or separate category. **Improvement opportunity**: Could add responsibility for system documentation and architecture diagrams to help with troubleshooting and onboarding. (AI)
 
 ## Changelog
 
