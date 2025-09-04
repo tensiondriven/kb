@@ -1,6 +1,7 @@
 site_name: Team Wiki
 site_url: https://tensiondriven.github.io/kb/
 repo_url: https://github.com/tensiondriven/kb
+docs_dir: published
 theme:
   name: material
   features:
