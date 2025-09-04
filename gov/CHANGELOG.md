@@ -14,23 +14,33 @@ All changes to governance structure, roles, policies, and responsibilities are d
 - Fixed incomplete responsibility in `gov/roles/example_role.md`
 - Added changelog entry for AI content rule implementation
 
-### Created 4 New Roles from Meeting Transcript
-Based on `meetings/2025-09-03-initial-setup.md` transcript:
+### Updated All 4 Roles with New Standards
+Based on feedback to make role names more playful and purpose statements more inspiring:
 
-1. **Deal Finder** (`gov/roles/deal-finder.md`)
-   - Purpose: Finding deals and bargains for Jonathan
-   - Source: meetings/2025-09-03-initial-setup.md:16-20
+1. **Deal Hunter** (`gov/roles/deal-finder.md`)
+   - Changed from: "Deal Finder" → "Deal Hunter" (more playful)
+   - Purpose: "Never miss a bargain on the things that matter" (more inspiring)
+   - Fixed reference format to standard markdown links
+   - Added Processing Notes section
 
-2. **IT Infrastructure Manager** (`gov/roles/it-infrastructure-manager.md`)
-   - Purpose: Maintaining all IT infrastructure and services
-   - Source: meetings/2025-09-03-initial-setup.md:37-40
+2. **IT Infrastructure** (`gov/roles/it-infrastructure.md`)
+   - Changed from: "IT Infrastructure Manager" → "IT Infrastructure" (avoid traditional naming)
+   - Purpose: "All systems operational, everyone's got what they need" (more casual)
+   - Short Name: "Infra" (casual/colloquial)
+   - Fixed reference format to standard markdown links
+   - Added Processing Notes section
 
-3. **Knowledge Archaeologist** (`gov/roles/knowledge-archaeologist.md`)
-   - Purpose: Documenting and exploring knowledge territories
-   - Source: meetings/2025-09-03-initial-setup.md:37-40
+3. **Knowledge Digger** (`gov/roles/knowledge-archaeologist.md`)
+   - Changed from: "Knowledge Archaeologist" → "Knowledge Digger" (more playful)
+   - Purpose: "Every knowledge territory fully mapped and understood" (more concise)
+   - Fixed reference format to standard markdown links
+   - Added Processing Notes section
 
-4. **Product Manager (Knowledge Graph)** (`gov/roles/product-manager-knowledge-graph.md`)
-   - Purpose: Managing Jonathan's knowledge graph ecosystem
-   - Source: meetings/2025-09-03-initial-setup.md:44-47
+4. **Knowledge Graph Keeper** (`gov/roles/knowledge-graph-keeper.md`)
+   - Changed from: "Product Manager (Knowledge Graph)" → "Knowledge Graph Keeper" (avoid traditional naming)
+   - Purpose: "Jonathan's entire knowledge ecosystem perfectly connected and meaningful" (more inspiring)
+   - Short Name: "Graph Keeper" (casual/colloquial)
+   - Fixed reference format to standard markdown links
+   - Added Processing Notes section
 
-All roles include proper AI content markers for generated content and meeting source references. (AI)
+All roles now follow the new standards: playful names, inspiring purposes, casual short names, proper markdown references, and AI content marking. (AI)
