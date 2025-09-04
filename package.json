@@ -1,0 +1,17 @@
+{
+  "name": "kb",
+  "version": "1.0.0",
+  "description": "Dream Team Knowledge Base",
+  "scripts": {
+    "lint:md": "markdownlint '**/*.md' --ignore node_modules --ignore published",
+    "lint:md:fix": "markdownlint '**/*.md' --ignore node_modules --ignore published --fix",
+    "lint:links": "find . -name '*.md' -not -path './node_modules/*' -not -path './published/*' | xargs markdown-link-check",
+    "lint:all": "npm run lint:md && npm run lint:links",
+    "docs:serve": "mkdocs serve",
+    "docs:build": "mkdocs build"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.37.0",
+    "markdown-link-check": "^3.11.2"
+  }
+}
