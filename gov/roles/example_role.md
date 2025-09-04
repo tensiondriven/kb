@@ -1,11 +1,11 @@
 # AI Developer
 
 Name: AI Developer
-Short Name: AI Dev
+Short Name: AI Developer
 
 ## Purpose
 
-A wonderful world where all the code runs, bug free.
+Code that runs perfectly and solves real problems. (AI)
 
 ## Responsibilities
 
@@ -22,3 +22,4 @@ A wonderful world where all the code runs, bug free.
 
 - Created 2025-09-02
 - Updated 2025-09-04: Added AI content rule note and fixed incomplete responsibility. (AI)
+- Updated 2025-09-04: Updated role name format and purpose statement to be more inspiring. (AI)

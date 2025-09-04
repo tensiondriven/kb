@@ -8,9 +8,9 @@ Take a look at the example_role.md for an example.
 
 To be valid, a role must have:
 
-- A name (text, short)
-- A short name (text, short)
-- A Purpose (text, sentence)
+- A name (text, short) - should almost NEVER be a traditional role name, be playful and inspiring
+- A short name (text, short) - may be the same as the role name, should be casual/colloquial
+- A Purpose (text, sentence) - should be inspiring, less formal, make people pause, diverse statements
 - At least one Responsibility (list of text sentences)
 
 We are evolving the structure of roles, so any information that is specifically mentioned which does not fit should go in a section called "Additional Info".  Over time we will update our lightweight role "schema" to support common features.
@@ -29,7 +29,7 @@ You are welcome and encouraged to fix grammar and spelling issues in all role do
 
 ## Purpose
 
-"Purpose" means something specific; it is a statement about the world, which if true, would mean this role would not need to exist. It is usually unattainable, aspirational, and the statement itself is inspirational.  Our purpose statements seldom start "To ..." as a typical purpose might. Instead, they delcare, for example, an exterminator might have the purpose, "A world without pests" or "Humanity is safe from disease and discomfort caused by insects". A purpose is also typically a single sentence, ending in a period.
+"Purpose" means something specific; it is a statement about the world, which if true, would mean this role would not need to exist. It is usually unattainable, aspirational, and the statement itself is inspirational. Purpose statements should be diverse, inspiring, and less formal. They don't need to follow the "A world where..." pattern and should make people pause. Role names should similarly be playful and inspiring, almost NEVER traditional role names. (AI)
 
 ## Responsibility
 
@@ -41,7 +41,7 @@ A well-written responsibility will:
 - MAY Mention any roles that depend on it or it depends on, and how (e.g. Providing Accounting with up to date reciepts by end of month) is good
 - MAY Includes heuristic for how much / how often, e.g. "upon request", "daily", "according to client schedule"
 - MAY include "Additional Info" section
-- MAY incldue "Processing Notes" section, to be filled out when creating/updating.
+- MAY include "Processing Notes" section, to capture confusion/uncertainty during role creation
 - MUST include a Changelog section at the end
 
 There are other criteria, which will be updated here.
@@ -52,6 +52,6 @@ If you are processing a role and are less than 90% confident in the conversion, 
 
 ### Reference Format
 
-For referencing meeting sources, use relative file paths with line numbers like `meetings/2025-09-03-initial-setup.md:16-20`. (AI)
+For referencing meeting sources, use standard markdown links like `[ref](meetings/2025-09-03-initial-setup.md:16-20)`. (AI)
 
 
