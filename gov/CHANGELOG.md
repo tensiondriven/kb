@@ -4,11 +4,27 @@ All changes to governance structure, roles, policies, and responsibilities are d
 
 ## 2025-09-04
 
+### Simplified Role Structure and Updated Processing Notes
+- Removed "Name:" field from all role files - canonical name now derived from H1 title "Role: X"
+- Added instruction to keep filenames in sync with role names using kebab-case
+- Updated Processing Notes sections to include confusion, questions, ambiguity, and improvement opportunities
+- Renamed `deal-finder.md` → `deal-hunter.md` to match role name
+- Renamed `example_role.md` → `ai-developer.md` to match role name
+- Enhanced all Processing Notes with structured format including:
+  * Confusion: Points of uncertainty during role creation
+  * Questions: Unanswered questions about role scope/boundaries
+  * Ambiguity: Unclear aspects from transcript or requirements
+  * Improvement opportunities: Suggested enhancements for role effectiveness
+  * Filename sync notes: Tracking when filenames need updating
+
+All role files now use streamlined structure with H1 title as canonical name source. (AI)
+
 ### Added AI Content Rule
 - Updated `gov/roles/README.md` with new AI content rule requiring (AI) marker for any generated/filled-in content
 - Fixed spelling: "Responsability" → "Responsibility" throughout documentation
 - Added grammar and spelling fix encouragement policy
 - Updated reference format to use relative file paths with line numbers like `meetings/2025-09-03-initial-setup.md:16-20`
+- **Note**: This meeting transcript and all 30 roles were processed using GLM 4.5 model (AI)
 
 ### Updated Role Structure
 - Fixed incomplete responsibility in `gov/roles/example_role.md`
