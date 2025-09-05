@@ -14,47 +14,49 @@ All changes to governance structure, roles, policies, and responsibilities are d
 - Fixed incomplete responsibility in `gov/roles/example_role.md`
 - Added changelog entry for AI content rule implementation
 
-### Updated All 4 Roles with New Standards
-Based on feedback to make role names more playful and purpose statements more inspiring:
+### Processed 26 Additional Roles from Meeting Transcript
+Based on comprehensive review of `meetings/2025-09-03-initial-setup/transcript.md`, created 26 additional roles:
 
-1. **Deal Hunter** (`gov/roles/deal-finder.md`)
-   - Changed from: "Deal Finder" → "Deal Hunter" (more playful)
-   - Purpose: "Never miss a bargain on the things that matter" (more inspiring)
-   - Fixed reference format to standard markdown links
-   - Added Processing Notes section
-   - Updated H1 title to "Role: Deal Hunter" format
-   - Fixed Additional Info to contain actual additional details, not summaries
+**Infrastructure & Systems Roles:**
+- **Feedmeister** (`gov/roles/feedmeister.md`) - Researches data sources, builds comprehensive feeds
+- **Maintenance Obsessor** (`gov/roles/maintenance-obsessor.md`) - Obsessed with road gravel, driveway checks, physical requests
+- **Security Overseer** (`gov/roles/security-overseer.md`) - Data and physical security management
+- **AI Concierge** (`gov/roles/ai-concierge.md`) - Latest AI releases, model selection, documentation
+- **Athena Manager** (`gov/roles/athena-manager.md`) - Manages Athena system with charts, displays, Railway hosting
+- **Integration King** (`gov/roles/integration-king.md`) - Handles system integrations like Google Maps
 
-2. **IT Infrastructure** (`gov/roles/it-infrastructure.md`)
-   - Changed from: "IT Infrastructure Manager" → "IT Infrastructure" (avoid traditional naming)
-   - Purpose: "All systems operational, everyone's got what they need!" (more casual)
-   - Short Name: "Infra" (casual/colloquial)
-   - Fixed reference format to standard markdown links
-   - Added Processing Notes section
-   - Updated H1 title to "Role: IT Infrastructure" format
-   - Fixed Additional Info to contain specific system details, not summaries
+**Business & Finance Roles:**
+- **Dream Studio Builder** (`gov/roles/dream-studio-builder.md`) - Turns Dream Studio into self-sustaining business
+- **Moneybags** (`gov/roles/moneybags.md`) - Manages $100 budget with spending policy
+- **Short-Term Project Manager** (`gov/roles/short-term-project-manager.md`) - Manages specific projects like car storage
+- **Accountant** (`gov/roles/accountant.md`) - Daily bank account monitoring via Monarch
 
-3. **Knowledge Digger** (`gov/roles/knowledge-archaeologist.md`)
-   - Changed from: "Knowledge Archaeologist" → "Knowledge Digger" (more playful)
-   - Purpose: "Every knowledge territory fully mapped and understood" (more concise)
-   - Fixed reference format to standard markdown links
-   - Added Processing Notes section
-   - Updated H1 title to "Role: Knowledge Digger" format
-   - Fixed Additional Info to contain specific linguistics and physics-of-work details
+**Health & Wellness Roles:**
+- **Wellness Guardian** (`gov/roles/wellness-guardian.md`) - "Worry ward" for finances, health, longevity, safety
+- **Chad** (`gov/roles/chad.md`) - Optimizer for testosterone, fitness, capacity expansion
+- **Health Concierge** (`gov/roles/health-concierge.md`) - Meals, exercises, weight checks for Jonathan & Philly
 
-4. **Knowledge Graph Keeper** (`gov/roles/knowledge-graph-keeper.md`)
-   - Changed from: "Product Manager (Knowledge Graph)" → "Knowledge Graph Keeper" (avoid traditional naming)
-   - Purpose: "Jonathan's entire knowledge ecosystem perfectly connected and meaningful" (more inspiring)
-   - Short Name: "Graph Keeper" (casual/colloquial)
-   - Fixed reference format to standard markdown links
-   - Added Processing Notes section
-   - Updated H1 title to "Role: Knowledge Graph Keeper" format
-   - Fixed Additional Info to contain RAG and relationship details
+**Knowledge & Creative Roles:**
+- **Gallery Curator** (`gov/roles/gallery-curator.md`) - Soul of gallery expression
+- **Workshop Soul** (`gov/roles/workshop-soul.md`) - Soul of workshop expression
+- **Imagineer** (`gov/roles/imagineer.md`) - Creative design, planning, project lists
+- **Fact Checker** (`gov/roles/fact-checker.md`) - Confirms facts, fills references, backs up info
+- **Curious George** (`gov/roles/curious-george.md`) - Internal PI investigating mysteries
+- **Question Master** (`gov/roles/question-master.md`) - Asks right questions in knowledge graph
+- **Visual Designer** (`gov/roles/visual-designer.md`) - Vega, Vega-Lite, D3 visualization specialist
+- **Physics of Work Champion** (`gov/roles/physics-of-work-champion.md`) - Publishes book, advances physics of work
 
-### Updated Instructions and Additional Info Definition
-- Updated H1 title format to use "Role:" prefix for all roles
-- Redefined Additional Info section as overflow bucket for details that don't fit other fields
-- Fixed Additional Info sections to contain actual additional details, not summaries of responsibilities
-- Updated example role to match new H1 format
+**Productivity & Management Roles:**
+- **Groundskeeper** (`gov/roles/groundskeeper.md`) - Fruit trees, harvest management, landscape health
+- **Personal Taskmaster** (`gov/roles/personal-taskmaster.md`) - Assistant + leash holder, daily productivity
+- **Studio Helper** (`gov/roles/studio-helper.md`) - Lives in studio, helps get things done
+- **Home Improvements Manager** (`gov/roles/home-improvements-manager.md`) - Home project questions, tracking, prioritization
+- **Future Planner** (`gov/roles/future-planner.md`) - 5/10/20-year plans, retirement security
 
-All roles now follow the new standards: playful names, inspiring purposes, casual short names, proper markdown references, meaningful Additional Info sections, and AI content marking. (AI)
+**Social & Communication Roles:**
+- **Relationship Coach** (`gov/roles/relationship-coach.md`) - Understands partner/trauma, social life oversight
+- **Question Agent** (`gov/roles/question-agent.md`) - Looks for prescient questions to ask
+- **Stream Genie** (`gov/roles/stream-genie.md`) - Filters events for interesting content
+- **Socialite** (`gov/roles/socialite.md`) - Portland hipster social curator, journal/blog
+
+All roles follow new standards: playful names, inspiring purposes, casual short names, proper markdown references, enhanced Processing Notes with confusion/questions/ambiguity/improvement opportunities, and meaningful Additional Info sections. (AI)
