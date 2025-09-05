@@ -19,7 +19,7 @@ changes:
   - path: gov/roles/it-infrastructure.md
     line: 1-31
     description: Created IT Infrastructure role with new format standards
-  - path: gov/roles/knowledge-archaeologist.md
+  - path: gov/roles/knowledge-digger.md
     line: 1-35
     description: Created Knowledge Digger role with new format standards
   - path: gov/roles/knowledge-graph-keeper.md

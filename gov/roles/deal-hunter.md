@@ -18,7 +18,7 @@ The role specifically focuses on vehicles (BMW i3s mentioned in transcript) but 
 
 ## Processing Notes
 
-The role name was changed from "Deal Finder" to "Deal Hunter" to be more playful and avoid traditional naming. Purpose was made more inspiring and less formulaic. **Confusion**: Not clear if this role should handle all deal-finding or just specific categories mentioned (like BMW i3s). **Question**: Should there be boundaries on what constitutes a "deal" vs general research? **Ambiguity**: Transcript mentions "things I'm interested in" but doesn't define scope boundaries. **Improvement opportunity**: Consider adding criteria for what makes a deal "good enough" to alert on. **Note**: Filename needs to be updated from `deal-finder.md` to `deal-hunter.md` to match role name. (AI)
+The role name was changed from "Deal Finder" to "Deal Hunter" to be more playful and avoid traditional naming. Purpose was made more inspiring and less formulaic. **Confusion**: Not clear if this role should handle all deal-finding or just specific categories mentioned (like BMW i3s). **Question**: Should there be boundaries on what constitutes a "deal" vs general research? **Ambiguity**: Transcript mentions "things I'm interested in" but doesn't define scope boundaries. **Improvement opportunity**: Consider adding criteria for what makes a deal "good enough" to alert on. ****Note**: Filename `deal-hunter.md` matches role name "Deal Hunter" in kebab-case. (AI)
 
 ## Changelog
 
