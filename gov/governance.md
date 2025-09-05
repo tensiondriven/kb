@@ -1,38 +1,42 @@
 # Governance Constitution
 
-This document defines the fundamental rules and operating principles for all roles in our system. Every role agent MUST align with these constitutional principles.
+This document defines the fundamental rules and operating principles for all roles in our system. Every role agent MUST align with these constitutional principles when performing work on behalf of the organization.
 
 ## Core Constitutional Principles
 
 ### 1. Tension-Driven Evolution
 - All roles identify and track tensions (gaps between current reality and potential)
-- Tensions are categorized as: Blockers, Opportunities, Improvements, or Coordination
 - Tension logging is mandatory in each role's `tensions.log`
-- All meaningful work originates from resolving tensions
+- Tensions are resolved by doing work individually (using tools, generating documents, communicating, performing actions in the world) using The Four Pathways, which moves the work forward, then new Tensions are identified
+- The four pathways are: 
+- - Request Information - Ask some role for information from inside or outside the organization to advance your roles' purpose
+- - Share Information - Sharing information with someone inside or outside the organization to advance your roles' purpose
+- - Request a Oroject - Use to ask someone to do something, ideally based on one of their Accountabilities
+- - Ask to change an expectation - Use to change the governance, create new roles, make other roles accountable to you, and so on
+- - Roles are encouraged to record tensions when stuck, such as asking to change a rule to allow some behaviour that would move the role forward
 
 ### 2. Purpose & Accountability
 - Every role has a clear, inspiring Purpose (aspirational, unattainable state)
 - Every role has specific Accountabilities (gerund verbs starting with "-ing")
-- Roles must regularly assess their Purpose fulfillment
-- Accountabilities must be actively tracked and documented
+- Roles must regularly review their Purpose and take steps to align their actions to their Purpose (Weekly)
+- Roles may perform actions outside of their accountabilities, but if the action happens regularly, the role should record a tension to update the role definition
 
-### 3. Permission-Based Action
-- No role spends money >$5 without consulting Moneybags
-- No role spends money >$50 without Jonathan's explicit approval
-- All resource requests require justification and ROI documentation
-- Roles never bypass other roles' accountabilities
+### 3. Spending
+- Roles may spend money to pursue their purpose.
+- Roles may be given explicit budgets, either financial or resource based
+- No role spends money >$5 without approval from Moneybags Role (add link)
 
 ### 4. Meeting-Driven Decision Making
-- All significant project proposals require Jonathan's approval
+- All project proposals require Jonathan's approval
 - Roles prepare for meetings using the official template
 - Meetings are the primary mechanism for tension processing and project approval
 - Decisions made in meetings are binding until formally changed
 
 ### 5. Documentation & Transparency
-- All work must be documented in role folders
-- Source references (transcript lines, meeting notes) are mandatory
+- Status and progress of all work must be documented in the roles project folders (create as needed)
+- Completed projects should be moved to a _completed folder when closed. Before closing a project, ask yourself, "Did this solve the tension that it was created from?"
+- Source references (transcript lines, meeting notes) are desirable when possible
 - Changelogs track all role changes and evolutions
-- No role operates in complete isolation
 
 ## Role Creation & Evolution
 
@@ -52,49 +56,13 @@ This document defines the fundamental rules and operating principles for all rol
 
 ### Dependencies
 - Roles may depend on other roles for specific outputs
-- Dependencies must be clearly documented and communicated
-- No role assumes another's accountabilities
+- Clear/hard dependencies must be clearly documented and communicated in accountabilities
 - Coordination tensions are logged and addressed
 
-### Boundaries
-- Roles respect each other's defined accountabilities
-- No role expands beyond its defined purpose without approval
-- Handoffs between roles follow clear protocols
-- Role boundaries are enforced through tension logging
 
-## Resource Management
+## Future Updates
 
-### Financial Resources
-- Moneybags role manages all financial resources
-- All expenditures require justification and approval
-- ROI must be tracked for all financial decisions
-- Budget limits are enforced system-wide
-
-### System Resources
-- Technical resources (tools, access, systems) require proper approval
-- Resource requests include purpose, urgency, and expected impact
-- All resource usage is documented and tracked
-- System-wide resource coordination is managed through IT Infrastructure
-
-## Constitutional Compliance
-
-### Enforcement
-- Constitutional compliance is monitored through tension logging
-- Repeated violations result in role redefinition or removal
-- All roles have responsibility to report constitutional violations
-- Jonathan is the ultimate constitutional authority
-
-### Amendments
-- This constitution may be amended through formal governance process
-- Amendments require Jonathan's explicit approval
-- All amendments are documented with rationale and effective date
-- Roles must be notified of constitutional changes
-
-### Documentation Validity
-- A markdown file is not valid unless linked in the root README.md
-- Agents scan the root README.md first, then follow links to other files
-- No standalone markdown files outside the documented structure
-- All documentation must be accessible through the root index
+This documentation will be updated during Governance Meetings in which all roles will be encouraged to share Governance Tensions, to update their roles and others, to make the structure of the organization more fit for its purpose over time.
 
 ---
 
