@@ -9,7 +9,7 @@ All changes to governance structure, roles, policies, and responsibilities are d
 - Added instruction to keep filenames in sync with role names using kebab-case
 - Updated Processing Notes sections to include confusion, questions, ambiguity, and improvement opportunities
 - Renamed `deal-finder.md` → `deal-hunter.md` to match role name
-- Renamed `example_role.md` → `ai-developer.md` to match role name
+- Renamed `example_role.md` → `developer.md` to match role name
 - Enhanced all Processing Notes with structured format including:
   * Confusion: Points of uncertainty during role creation
   * Questions: Unanswered questions about role scope/boundaries

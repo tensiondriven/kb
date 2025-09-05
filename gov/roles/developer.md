@@ -1,6 +1,6 @@
-# Role: AI Developer
+# Role: Developer
 
-Short Name: AI Developer
+Short Name: Developer
 
 ## Purpose
 
@@ -27,4 +27,4 @@ Code that runs perfectly and solves real problems. (AI)
 - Updated 2025-09-04: Added AI content rule note and fixed incomplete responsibility. (AI)
 - Updated 2025-09-04: Updated role name format and purpose statement to be more inspiring. (AI)
 - Updated 2025-09-04: Enhanced Processing Notes with confusion, questions, ambiguity, and improvement opportunities. (AI)
-- Updated 2025-09-04: Removed "Name:" field (canonical name now from H1 title), renamed file from `example_role.md` to `ai-developer.md` to match role name. (AI)
+- Updated 2025-09-04: Removed "Name:" field (canonical name now from H1 title), renamed file from `example_role.md` to `developer.md` to match role name. (AI)
