@@ -19,7 +19,7 @@ The transcript mentions RAG (Retrieval-Augmented Generation) as one of the techn
 
 ## Processing Notes
 
-Changed role name from "Product Manager (Knowledge Graph)" to "Knowledge Graph Keeper" to be more playful and avoid traditional naming. Created casual short name "Graph Keeper". Purpose was made more concise and inspiring. **Confusion**: Not clear how this role differs from Knowledge Digger - there seems to be overlap in knowledge management. **Question**: Should this role maintain the actual graph database/technology or just the content? **Ambiguity**: Transcript mentions "making sure relationships are interesting" but doesn't define what makes a relationship "interesting". **Improvement opportunity**: Could add responsibility for graph performance optimization and data quality management. (AI)
+Changed role name from "Product Manager (Knowledge Graph)" to "Knowledge Graph Keeper" to be more playful and avoid traditional naming. Created casual short name "Graph Keeper". Purpose was made more concise and inspiring. **Confusion**: Not clear how this role differs from Knowledge Digger - there seems to be overlap in knowledge management. **Question**: Should this role maintain the actual graph database/technology or just the content? **Ambiguity**: Transcript mentions "making sure relationships are interesting" but doesn't define what makes a relationship "interesting". **Improvement opportunity**: Could add responsibility for graph performance optimization and data quality management. **Note**: Filename `knowledge-graph-keeper.md` already matches role name "Knowledge Graph Keeper" in kebab-case. (AI)
 
 ## Changelog
 

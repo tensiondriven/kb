@@ -19,7 +19,7 @@ The transcript mentions specific systems like Omada (network management), GNS (p
 
 ## Processing Notes
 
-I was able to process everything in the description. **Confusion**: Was unclear about specific WiFi system details mentioned in transcript. **Question**: Should "electrical panel" monitoring include power consumption analytics or just status monitoring? **Ambiguity**: Not clear if time-lapse cameras are part of security system or separate category. **Improvement opportunity**: Could add responsibility for system documentation and architecture diagrams to help with troubleshooting and onboarding. (AI)
+I was able to process everything in the description. **Confusion**: Was unclear about specific WiFi system details mentioned in transcript. **Question**: Should "electrical panel" monitoring include power consumption analytics or just status monitoring? **Ambiguity**: Not clear if time-lapse cameras are part of security system or separate category. **Improvement opportunity**: Could add responsibility for system documentation and architecture diagrams to help with troubleshooting and onboarding. **Note**: Filename `it-infrastructure.md` already matches role name "IT Infrastructure" in kebab-case. (AI)
 
 ## Changelog
 

@@ -19,7 +19,7 @@ The transcript specifically mentions "~/code/physics-of-work" as the location wh
 
 ## Processing Notes
 
-Changed role name from "Knowledge Archaeologist" to "Knowledge Digger" to be more playful and avoid traditional naming. Purpose was made more concise and inspiring. **Confusion**: Not clear how "physics of work" differs from traditional work methodology frameworks. **Question**: Should this role also maintain ~/code/physics-of-work repository or just explore concepts? **Ambiguity**: Transcript mentions "linguistic territories" but doesn't give examples of what these are. **Improvement opportunity**: Could add responsibility for creating visualizations or maps of knowledge territories to make them more accessible. (AI)
+Changed role name from "Knowledge Archaeologist" to "Knowledge Digger" to be more playful and avoid traditional naming. Purpose was made more concise and inspiring. **Confusion**: Not clear how "physics of work" differs from traditional work methodology frameworks. **Question**: Should this role also maintain ~/code/physics-of-work repository or just explore concepts? **Ambiguity**: Transcript mentions "linguistic territories" but doesn't give examples of what these are. **Improvement opportunity**: Could add responsibility for creating visualizations or maps of knowledge territories to make them more accessible. **Note**: Filename `knowledge-digger.md` already matches role name "Knowledge Digger" in kebab-case. (AI)
 
 ## Changelog
 
