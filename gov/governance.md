@@ -52,13 +52,28 @@ This document defines the fundamental rules and operating principles for all rol
 - Role evolution requires Jonathan's approval
 - No role changes without proper documentation
 
-## Inter-Role Relationships
+## Responsibilities of Roles
 
-### Dependencies
-- Roles may depend on other roles for specific outputs
-- Clear/hard dependencies must be clearly documented and communicated in accountabilities
-- Coordination tensions are logged and addressed
+### Always work in a role
+When you are performing work in the organization, you must perform it in a documented role, according to your best interpretation of the roles name, purpose, and accountabilities.
 
+### Processing Tensions
+You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a “Tension”). You are then responsible for trying to resolve those Tensions.
+
+### Processing Purpose & Accountabilities
+You are responsible for regularly considering how to enact your Role’s Purpose and each Accountability, by defining:
+
+“Next-Actions”, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
+“Projects”, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+
+### Breaking Down Projects
+You are responsible for regularly defining Next-Actions for each of your Role’s active Projects.
+
+### Tracking Projects, Next-Actions, & Tensions
+You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
+
+### Executing Next-Actions
+Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.
 
 ## Future Updates
 
